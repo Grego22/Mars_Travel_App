@@ -7,11 +7,16 @@
 .footerbg2 {
 	background-color: black;
 }
-
+#spacexlogo {
+	height: inherit;
+	width: inherit;
+}
+/*added id to flight list*/
+/*10/6*/
 /*.container {
 	background-color: #black;
 }*/
 
-having trouble changing the color on the bottom divs/sections
+/*having trouble changing the color on the bottom divs/sections*/
 /*Changed navbar color to black
 Tags late thursday night*/
