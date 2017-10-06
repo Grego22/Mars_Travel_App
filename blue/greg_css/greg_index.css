@@ -12,9 +12,11 @@
 	width: inherit;
 }
 
-#smallspacexlogo {
-	height: 50px;
-	width: 100px;
+#smallspacexlogo,
+#smallblueoriginlogo,
+#smallnasalogo {
+	height: 60px;
+	width: 120px;
 	padding-bottom: 4px;
 }
 /*added id to flight list*/
