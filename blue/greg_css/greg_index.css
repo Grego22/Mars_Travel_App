@@ -11,6 +11,12 @@
 	height: inherit;
 	width: inherit;
 }
+
+#smallspacexlogo {
+	height: 50px;
+	width: 100px;
+	padding-bottom: 4px;
+}
 /*added id to flight list*/
 /*10/6*/
 /*.container {
