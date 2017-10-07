@@ -31,6 +31,12 @@
 	padding-top: 2px;
 	/*padding-right: -5px;*/
 }
+#middleindex {
+	background-color: #c1440e;
+}
+.tab-content {
+	min-width: 992px;
+}
 /*added id to flight list*/
 /*10/6*/
 /*.container {
