@@ -25,6 +25,12 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+#marstoearthcontact {
+	width: 100%;
+	height: 81%;
+	padding-top: 2px;
+	/*padding-right: -5px;*/
+}
 /*added id to flight list*/
 /*10/6*/
 /*.container {
@@ -34,3 +40,5 @@
 /*having trouble changing the color on the bottom divs/sections*/
 /*Changed navbar color to black
 Tags late thursday night*/
+
+/*removed google map id from css, just commented it out, can put back in*/
