@@ -34,9 +34,10 @@
 #middleindex {
 	background-color: #c1440e;
 }
-.tab-content {
+/*.tab-content {
 	min-width: 992px;
-}
+	height: 250px;
+}*/
 /*added id to flight list*/
 /*10/6*/
 /*.container {
