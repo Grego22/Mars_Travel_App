@@ -19,7 +19,12 @@
 	width: 120px;
 	padding-bottom: 4px;
 }
-
+#marssearchbackground {
+	height: 20px;
+	width: 100px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 /*added id to flight list*/
 /*10/6*/
 /*.container {
