@@ -7,9 +7,12 @@
 .footerbg2 {
 	background-color: black;
 }
-#spacexlogo {
+#spacexlogo,
+#blueoriginlogo,
+#nasalogo {
 	height: inherit;
 	width: inherit;
+	padding-bottom: 2em;
 }
 
 #smallspacexlogo,
