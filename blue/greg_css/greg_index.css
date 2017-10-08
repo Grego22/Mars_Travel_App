@@ -34,7 +34,9 @@
 #middleindex {
 	background-color: #c1440e;
 }
-
+#profilepics {
+	height: 350px;
+}
 /*.tab-content {
 	min-width: 992px;
 	height: 250px;
